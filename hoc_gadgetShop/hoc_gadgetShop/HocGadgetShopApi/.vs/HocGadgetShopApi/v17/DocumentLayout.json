@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\models\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\models\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\models\\customerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\models\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\models\\inventoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\models\\inventoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|c:\\users\\divya\\downloads\\hoc_gadgetshop\\hoc_gadgetshop\\hocgadgetshopapi\\hocgadgetshopapi\\hocgadgetshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B6ED22AC-DF39-4BA8-93DE-1A1DA7A451F8}|HocGadgetShopApi\\HocGadgetShopApi.csproj|solutionrelative:hocgadgetshopapi\\hocgadgetshopapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:23:27.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HocGadgetShopApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T18:14:44.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\WeatherForecast.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T18:14:30.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\appsettings.json",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\appsettings.json",
+              "RelativeToolTip": "HocGadgetShopApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T18:14:13.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Controllers\\InventoryController.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Controllers\\InventoryController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwG0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T14:36:48.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Models\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\CustomerDto.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Models\\CustomerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T14:20:12.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswHIAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:40:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InventoryRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\InventoryRequestDto.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Models\\InventoryRequestDto.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\InventoryRequestDto.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Models\\InventoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T18:58:23.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Program.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Program.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Program.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T19:27:50.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HocGadgetShopApi.csproj",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\HocGadgetShopApi.csproj",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\HocGadgetShopApi.csproj",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\HocGadgetShopApi.csproj",
+              "RelativeToolTip": "HocGadgetShopApi\\HocGadgetShopApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-15T18:57:41.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\CustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Models\\CustomerRequestDto.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\CustomerRequestDto.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Models\\CustomerRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T08:41:15.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InventoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\InventoryDto.cs",
+              "RelativeDocumentMoniker": "HocGadgetShopApi\\Models\\InventoryDto.cs",
+              "ToolTip": "C:\\Users\\divya\\Downloads\\hoc_gadgetShop\\hoc_gadgetShop\\HocGadgetShopApi\\HocGadgetShopApi\\Models\\InventoryDto.cs",
+              "RelativeToolTip": "HocGadgetShopApi\\Models\\InventoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:11:50.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
